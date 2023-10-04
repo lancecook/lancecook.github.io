@@ -1,1 +1,1 @@
-Code repo for my person website.
+Personal website. Used with permision from Jon Barron https://github.com/jonbarron/website
